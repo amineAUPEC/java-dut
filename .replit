@@ -1,0 +1,2 @@
+language = "java10"
+run = "cd M2207-S2-java/TP4-requete/URL2Fichier-20220223T165200Z-001/URL2Fichier/src && javac *.java && java -cp URL2Fichier  URL2Fichier.java main"
